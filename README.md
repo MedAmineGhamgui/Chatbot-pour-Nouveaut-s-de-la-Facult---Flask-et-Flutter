@@ -8,3 +8,5 @@
 
 3. **Communication :** L'application mobile assure la communication en temps réel avec le chatbot.
 
+---
+Cette version est développée par Mohamed Amine Ghamgui.
